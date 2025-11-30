@@ -1,5 +1,5 @@
 # ✨ Hi, I'm Vaishnavi Shahane ✨
-**(aka vaish_404)**  
+**(aka vaiish_200)**  
 
 🚀 Data Enthusiast | 🤖 ML Developer | 💻 CSE Student  
 

@@ -24,13 +24,6 @@
 
 ---
 
-## 🚀 Highlighted Projects  
-- 🔹 **Project 1** – Short description [https://github.com/Shahane-Vaishnavi/ROVA-AI-2.0]  
-- 🔹 **Project 2** – Short description [Repo Link]  
-- 🔹 **Project 3** – Short description [Repo Link]  
-
----
-
 ## 📊 GitHub Stats  
 
 ![Vaishnavi's GitHub Stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=Shahane-Vaishnavi&show_icons=true&theme=tokyonight)

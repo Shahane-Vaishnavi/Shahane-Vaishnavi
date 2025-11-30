@@ -25,8 +25,7 @@
 ---
 
 ## 🚀 Highlighted Projects  
-(*Will be updated soon…*)  
-- 🔹 **Project 1** – Short description [Repo Link]  
+- 🔹 **Project 1** – Short description [https://github.com/Shahane-Vaishnavi/ROVA-AI-2.0]  
 - 🔹 **Project 2** – Short description [Repo Link]  
 - 🔹 **Project 3** – Short description [Repo Link]  
 

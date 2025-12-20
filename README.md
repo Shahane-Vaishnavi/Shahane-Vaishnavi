@@ -46,7 +46,7 @@
 ✨ Still a student… but already building projects that solve real problems 🚀  
 ## Hi there 👋
 
-<!--
+
 **Shahane-Vaishnavi/Shahane-Vaishnavi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on startup
 - 🤔 I’m looking for help with LetCode problems solving 
 - 📫 How to reach me:https://www.linkedin.com/in/vaishnavi-shahane-0a3135335/
--->
+
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />

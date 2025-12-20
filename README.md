@@ -45,9 +45,10 @@
 
 ## 📊 GitHub Stats  
 
-![Vaishnavi's GitHub Stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=Shahane-Vaishnavi&show_icons=true&theme=tokyonight)
+  ![Vaishnavi's GitHub Stats width="48%"](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=Shahane-Vaishnavi&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=Shahane-Vaishnavi&layout=compact&theme=tokyonight)
+  ![Top Languages width="48%"](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=Shahane-Vaishnavi&layout=compact&theme=tokyonight)
+
 
 
 
@@ -55,9 +56,8 @@
 
 ## 🌐 Connect with Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-id)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/your-instagram-id)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaishnavi-shahane-0a3135335/)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)   
 
 ---
 
@@ -70,7 +70,6 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on GSoC
 - 🌱 I’m currently learning Android Development 
 - 👯 I’m looking to collaborate on startup
 - 🤔 I’m looking for help with LetCode problems solving 

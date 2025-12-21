@@ -10,7 +10,7 @@
 </p>
 
 <p align="right">
-  <img align="right" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="300" />
+  <img align="right" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width="400" />
 </p>
 
 I'm a Computer Science student passionate about **Artificial Intelligence**, **Machine Learning**, and exploring the fascinating world of intelligent systems. I thrive on solving complex problems, building innovative projects, and optimizing systems to make technology more accessible and impactful.
@@ -170,7 +170,7 @@ Here are some of the key projects I've been working on.
 ---
 
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coder GIF" width="500px">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/ad50585b-2e08-4f45-9836-9bb6d67e2a86" alt="Coder GIF" width="500px">
 </p>
 
 <p align="center">

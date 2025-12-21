@@ -73,7 +73,7 @@ Here are some of the key projects I've been working on.
             <img src="https://img.shields.io/badge/View%20Code-000?style=for-the-badge&logo=github" />
           </a>
         </p>
-      </div>
+      </div><!--
     </td>
     <td width="50%">
       <h3 align="center">ML Model Repository</h3>
@@ -117,7 +117,7 @@ Here are some of the key projects I've been working on.
             <img src="https://img.shields.io/badge/View%20Code-000?style=for-the-badge&logo=github" />
           </a>
         </p>
-      </div>
+      </div>-->
     </td>
   </tr>
 </table>

@@ -1,230 +1,140 @@
-<div align="center">
-  <img src="https://i.pinimg.com/originals/0f/ff/3e/0fff3ecb7e2a7dd4e9c1c00761a7ee66.gif" alt="Neon Banner" width="100%">
-</div>
+<p align="center">
+  <img src="https://i.pinimg.com/originals/0f/ff/3e/0fff3ecb7e2a7dd4e9c1c00761a7ee66.gif" alt="Banner" width="100%">
+</p>
 
-<style>
-  /* GitHub-safe inline styles to keep the neon-glass look */
-  .wrap {
-    font-family: "Inter", "Segoe UI", system-ui, -apple-system, sans-serif;
-    background: linear-gradient(135deg, rgba(86,100,255,0.12), rgba(203,125,255,0.12));
-    border: 1px solid rgba(255,255,255,0.18);
-    box-shadow: 0 10px 40px rgba(0,0,0,0.25);
-    backdrop-filter: blur(8px);
-    border-radius: 18px;
-    padding: 24px;
-    margin: 18px 0;
-  }
-  .glass {
-    border: 1px solid rgba(255,255,255,0.18);
-    background: linear-gradient(135deg, rgba(102,126,234,0.15), rgba(118,75,162,0.15));
-    box-shadow: 0 10px 30px rgba(87,128,255,0.25);
-    border-radius: 16px;
-    padding: 18px;
-  }
-  .glow {
-    transition: all 0.3s ease;
-    border: 1px solid rgba(255,255,255,0.2);
-    box-shadow: 0 0 12px rgba(125,160,255,0.7);
-  }
-  .glow:hover {
-    transform: translateY(-4px) scale(1.01);
-    box-shadow: 0 0 18px rgba(118,75,162,0.9), 0 0 28px rgba(87,128,255,0.8);
-  }
-  .pill {
-    display: inline-block;
-    padding: 8px 14px;
-    border-radius: 999px;
-    color: #eaf0ff;
-    font-weight: 600;
-    background: linear-gradient(120deg, #667eea, #764ba2);
-    box-shadow: 0 8px 25px rgba(102,126,234,0.35);
-    border: 1px solid rgba(255,255,255,0.16);
-  }
-  .grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
-    gap: 16px;
-  }
-  .card {
-    background: linear-gradient(135deg, rgba(10,15,40,0.6), rgba(26,18,60,0.65));
-    border: 1px solid rgba(255,255,255,0.15);
-    border-radius: 14px;
-    padding: 16px;
-    color: #dfe7ff;
-    box-shadow: inset 0 0 30px rgba(102,126,234,0.08);
-    transition: all 0.25s ease;
-  }
-  .card:hover {
-    transform: translateY(-6px) scale(1.02);
-    border-color: rgba(118,75,162,0.55);
-    box-shadow: 0 0 20px rgba(118,75,162,0.45), 0 0 30px rgba(87,128,255,0.35);
-  }
-  .badge-btn {
-    display: inline-block;
-    padding: 10px 16px;
-    border-radius: 12px;
-    color: #eaf0ff;
-    text-decoration: none;
-    font-weight: 700;
-    background: linear-gradient(120deg, #6a5acd, #00c6ff);
-    border: 1px solid rgba(255,255,255,0.2);
-    box-shadow: 0 10px 25px rgba(0,198,255,0.35);
-    transition: all 0.25s ease;
-  }
-  .badge-btn:hover { box-shadow: 0 0 18px rgba(0,198,255,0.7); transform: translateY(-3px); }
-  .header-glow { text-shadow: 0 0 14px rgba(0,198,255,0.55), 0 0 22px rgba(118,75,162,0.65); }
-  .sparkle-bg { background: url("https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines.svg"); background-size: cover; }
-  .float {
-    animation: float 6s ease-in-out infinite;
-  }
-  .pulse {
-    position: relative;
-  }
-  .pulse::after {
-    content: "";
-    position: absolute;
-    inset: -6px;
-    border-radius: 14px;
-    background: radial-gradient(circle, rgba(118,75,162,0.25) 0%, rgba(0,0,0,0) 60%);
-    filter: blur(12px);
-    z-index: -1;
-    animation: pulse 3s ease-in-out infinite;
-  }
-  @keyframes float { 0% { transform: translateY(0); } 50% { transform: translateY(-8px); } 100% { transform: translateY(0); } }
-  @keyframes pulse { 0% { opacity: 0.55; } 50% { opacity: 0.9; } 100% { opacity: 0.55; } }
-</style>
+<h1 align="center">Hi, I'm Vaishnavi Shahane ✨</h1>
+<h3 align="center">CSE Student | Data Enthusiast | ML Developer</h3>
 
-<div class="wrap sparkle-bg">
-  <h1 align="center" class="header-glow">Hi, I'm Vaishnavi Shahane ✨</h1>
-  <h3 align="center">CSE Student | Data Enthusiast | ML Developer</h3>
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=Shahane-Vaishnavi&label=Profile%20Views&color=6f9dff&style=for-the-badge" alt="Profile views"/>
-  </p>
-  <p align="center">
-    <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" alt="Floating particles" width="240" class="float">
-  </p>
-  <p align="center"><span class="pill">Modern Web • AI/ML • Data Storytelling</span></p>
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Shahane-Vaishnavi&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views"/>
+</p>
 
-<div class="wrap glass">
-  <h2 align="center" class="header-glow">🛠️ Tech Stack</h2>
-  <div class="grid">
-    <div class="card glow pulse">
-      <h4>Languages</h4>
-      Java · Python · C++ · C · JavaScript
-    </div>
-    <div class="card glow pulse">
-      <h4>Frontend</h4>
-      Next.js · HTML5 · CSS3
-    </div>
-    <div class="card glow pulse">
-      <h4>Backend</h4>
-      FastAPI · Node.js
-    </div>
-    <div class="card glow pulse">
-      <h4>Databases & Tools</h4>
-      MongoDB · MySQL · Git · GitHub
-    </div>
-  </div>
-</div>
+<p align="right">
+  <img align="right" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width="400" />
+</p>
 
-<div class="wrap glass">
-  <h2 align="center" class="header-glow">🚀 Projects</h2>
-  <table width="100%">
-    <tr>
-      <td width="50%">
-        <div class="card glow pulse">
-          <h3 align="center">GATE Assistant</h3>
-          <div align="center">
-            <img src="https://via.placeholder.com/520x260/667eea/ffffff?text=GATE+Assistant" alt="GATE Assistant" width="100%" class="glow">
-          </div>
-          <p>AI-powered study tool with personalized plans and intelligent practice for GATE aspirants.</p>
-          <div align="center"><a class="badge-btn" href="https://github.com/Shahane-Vaishnavi/GATE-Assistant" target="_blank">View Code</a></div>
-        </div>
-      </td>
-      <td width="50%">
-        <div class="card glow pulse">
-          <h3 align="center">ML Model Repository</h3>
-          <div align="center">
-            <img src="https://via.placeholder.com/520x260/764ba2/ffffff?text=ML+Models" alt="ML Models" width="100%" class="glow">
-          </div>
-          <p>Curated collection of ML experiments, classic algorithms, and production-ready notebooks.</p>
-          <div align="center"><a class="badge-btn" href="https://github.com/Shahane-Vaishnavi/ML-Projects" target="_blank">View Code</a></div>
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <div class="card glow pulse">
-          <h3 align="center">Analytics Dashboard</h3>
-          <div align="center">
-            <img src="https://via.placeholder.com/520x260/f093fb/ffffff?text=Analytics+Dashboard" alt="Analytics Dashboard" width="100%" class="glow">
-          </div>
-          <p>Interactive dashboards to surface insights fast with clean visuals and smooth filters.</p>
-          <div align="center"><a class="badge-btn" href="https://github.com/Shahane-Vaishnavi/Analytics-Dashboard" target="_blank">View Code</a></div>
-        </div>
-      </td>
-      <td width="50%">
-        <div class="card glow pulse">
-          <h3 align="center">Algorithm Visualizer</h3>
-          <div align="center">
-            <img src="https://via.placeholder.com/520x260/4facfe/ffffff?text=Algorithm+Visualizer" alt="Algorithm Visualizer" width="100%" class="glow">
-          </div>
-          <p>Animated walkthroughs of sorting and searching algorithms with step-by-step highlights.</p>
-          <div align="center"><a class="badge-btn" href="https://github.com/Shahane-Vaishnavi/Algorithm-Visualizer" target="_blank">View Code</a></div>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
+I'm a Computer Science student passionate about **Artificial Intelligence**, **Machine Learning**, and exploring the fascinating world of intelligent systems. I thrive on solving complex problems, building innovative projects, and optimizing systems to make technology more accessible and impactful.
 
+Currently, I'm working on **GATE Assistant** – an AI-powered learning companion designed to revolutionize exam preparation with personalized study plans and intelligent question generation.
+
+> *"Code with purpose. Learn with passion. Deliver with pride."*
+
+---
+
+## 🛠️ My Tech Stack
+
+**Languages**
+<p>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
+
+**Frontend**
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+**Backend & APIs**
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+</p>
+
+**Databases & Tools**
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+---
+
+## 🚀 My Projects
+
+Here are some of the key projects I've been working on.
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">GATE Assistant</h3>
+      <div align="center">
+        <a href="https://github.com/Shahane-Vaishnavi/GATE-Assistant" target="_blank">
+          <img src="https://via.placeholder.com/400x200/667eea/ffffff?text=GATE+Assistant" alt="GATE Assistant" width="400" />
+        </a>
+        <p>An AI-powered learning companion for GATE exam preparation with personalized study plans and intelligent assessments.</p>
+        <p>
+          <a href="https://github.com/Shahane-Vaishnavi/GATE-Assistant" target="_blank">
+            <img src="https://img.shields.io/badge/View%20Code-000?style=for-the-badge&logo=github" />
+          </a>
+        </p>
+     </div>
+  </tr>
+</table>
+
+---
+
+<!--## 📊 GitHub Stats-->
 <div class="wrap glass">
   <h2 align="center" class="header-glow">📊 GitHub Stats</h2>
   <p align="center">
     <img class="glow" src="https://github-readme-streak-stats.herokuapp.com/?user=Shahane-Vaishnavi&theme=tokyonight&hide_border=true&background=0d1117" width="49%"/>
-    <img class="glow" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahane-Vaishnavi&layout=compact&theme=tokyonight&hide_border=true&background=0d1117" width="49%"/>
+    <!-- <img class="glow" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahane-Vaishnavi&layout=compact&theme=tokyonight&hide_border=true&background=0d1117" width="49%"/> -->
   </p>
 </div>
+<!--
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shahane-Vaishnavi&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahane-Vaishnavi&layout=compact&theme=tokyonight" width="48%"/>
+</p>-->
+---
 
-<div class="wrap glass">
-  <h2 align="center" class="header-glow">🌱 Currently Learning</h2>
-  <div class="grid">
-    <div class="card glow"><img src="https://media.giphy.com/media/l1J9Jzcs9r4GdYnl2/giphy.gif" width="32"> Deep Learning</div>
-    <div class="card glow"><img src="https://media.giphy.com/media/xT5LMHxhOfscxPfIfm/giphy.gif" width="32"> Android Development</div>
-    <div class="card glow"><img src="https://media.giphy.com/media/3o7btNhMBytxAM6YBa/giphy.gif" width="32"> Data Engineering</div>
-    <div class="card glow"><img src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" width="32"> Competitive Programming</div>
-  </div>
+## 🌱 Currently Learning
+
+- **Deep Learning:** Exploring neural networks, CNNs, and transformer architectures for advanced AI applications.
+- **Android Development:** Building mobile applications with modern frameworks and best practices.
+- **Data Engineering:** Working with big data tools and creating efficient data pipelines.
+- **Competitive Programming:** Sharpening problem-solving skills on LeetCode and other platforms.
+
+---
+
+## 💡 What I'm Looking For
+
+-  Open to collaboration on **startup projects** and innovative AI/ML solutions
+-  Seeking mentorship and collaboration opportunities in **data science** and **machine learning**
+-  Exploring internship opportunities in **AI/ML development** and **data analytics**
+
+---
+
+## 🌐 Connect with Me
+
+<p align="left">
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/vaishnavi-shahane-0a3135335/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/Shahane-Vaishnavi"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+## 🎉 Fun Fact
+
+✨ Still a student… but already building projects that solve real problems 🚀
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
-<div class="wrap glass">
-  <h2 align="center" class="header-glow">💡 What I'm Looking For</h2>
-  <div class="grid">
-    <div class="card glow">🔮 Collaboration on AI/ML projects</div>
-    <div class="card glow">🌌 Mentorship in Data Science</div>
-    <div class="card glow">🚀 AI/ML internships</div>
-  </div>
-</div>
+---
 
-<div class="wrap glass">
-  <h2 align="center" class="header-glow">🔗 Connect</h2>
-  <p align="center">
-    <a class="badge-btn" href="mailto:your-email@example.com">Email</a>
-    &nbsp;
-    <a class="badge-btn" href="https://www.linkedin.com/in/vaishnavi-shahane-0a3135335/" target="_blank">LinkedIn</a>
-    &nbsp;
-    <a class="badge-btn" href="https://github.com/Shahane-Vaishnavi" target="_blank">GitHub</a>
-  </p>
-</div>
+<p align="center">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/ad50585b-2e08-4f45-9836-9bb6d67e2a86" alt="Coder GIF" width="500px">
+</p>
 
-<div class="wrap glass">
-  <h2 align="center" class="header-glow">🎉 Fun Fact</h2>
-  <p align="center">✨ Still a student… already shipping solutions that glow!</p>
-  <p align="center">
-    <img src="https://media.giphy.com/media/3oz8xIsloV7zOmt81G/giphy.gif" width="120" class="float" alt="Animated emoji">
-  </p>
-  <div align="center">
-    <img class="glow" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-  </div>
-</div>
-
-<p align="center" class="header-glow"><i>⭐ From Shahane-Vaishnavi</i></p>
+<p align="center">
+  <i>⭐️ From <a href="https://github.com/Shahane-Vaishnavi">Shahane-Vaishnavi</a></i>
+</p>

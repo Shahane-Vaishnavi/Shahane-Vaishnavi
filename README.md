@@ -58,24 +58,61 @@ Currently, I'm working on **GATE Assistant** – an AI-powered learning companio
 ## 🚀 My Projects
 
 Here are some of the key projects I've been working on.
-
 <table>
+  <!-- Row 1 -->
   <tr>
     <td width="50%">
       <h3 align="center">GATE Assistant</h3>
       <div align="center">
-        <a href="https://github.com/Shahane-Vaishnavi/GATE-Assistant" target="_blank">
-          <img src="https://via.placeholder.com/400x200/667eea/ffffff?text=GATE+Assistant" alt="GATE Assistant" width="400" />
-        </a>
         <p>An AI-powered learning companion for GATE exam preparation with personalized study plans and intelligent assessments.</p>
         <p>
           <a href="https://github.com/Shahane-Vaishnavi/GATE-Assistant" target="_blank">
             <img src="https://img.shields.io/badge/View%20Code-000?style=for-the-badge&logo=github" />
           </a>
         </p>
-     </div>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">To-Do Work</h3>
+      <div align="center">
+        <p>An intuitive Android application built in Java to organize, analyze, and streamline your daily tasks.</p>
+        <p>
+          <a href="https://github.com/Shahane-Vaishnavi/To-Do-Work-" target="_blank">
+            <img src="https://img.shields.io/badge/View%20Code-000?style=for-the-badge&logo=github" />
+          </a>
+        </p>
+      </div>
+    </td>
+  </tr>
+
+  <!-- Row 2 -->
+  <tr>
+    <td width="50%">
+      <h3 align="center">ROVA AI-2.0</h3>
+      <div align="center">
+        <p>An intelligent VS Code extension that delivers real-time inline code suggestions to enhance speed, accuracy, and developer productivity.</p>
+        <p>
+          <a href="https://github.com/Shahane-Vaishnavi/ROVA-AI-2.0" target="_blank">
+            <img src="https://img.shields.io/badge/View%20Code-000?style=for-the-badge&logo=github" />
+          </a>
+        </p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">AI-VoiceAgent</h3>
+      <div align="center">
+        <p>An evolving AI voice agent built to handle text-to-speech, speech-to-text, and smart voice switching, with more powerful features coming soon.</p>
+        <p>
+          <a href="https://github.com/Shahane-Vaishnavi/Ai_VoiceAgent" target="_blank">
+            <img src="https://img.shields.io/badge/View%20Code-000?style=for-the-badge&logo=github" />
+          </a>
+        </p>
+      </div>
+    </td>
   </tr>
 </table>
+
+
 
 ---
 

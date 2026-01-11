@@ -13,15 +13,12 @@
   <img align="right" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width="400" />
 </p>
 
-CS student who went from building AI study buddies to Android apps that actually matter 📱 Currently cooking up a Women Safety app for finding legal advocates because tech should solve real problems, not just look cool on a resume. Recently shipped a To-Do app (yes, another one, but mine slaps different 💅). 
+CS student who went from building AI study buddies to Android apps that actually matter 📱 Currently cooking up a Women Safety app for finding legal advocates because tech should solve real problems, not just look cool on a resume. Recently shipped a To-Do app (yes, another one, but mine slaps different 💅).<br>
 Obsessed with DSA problems even though they keep me up at night 🥲 Vibing between Android dev in Java, advanced web tech, and making OOP make sense. Building stuff that helps people while trying not to break prod.
 
 > *"Curious mind. Consistent effort. Real creations."*
 
-
 ---
-
-
 ## 🛠️ My Tech Stack
 
 **Languages**
@@ -137,30 +134,9 @@ Here are some of the key projects I've been working on.
 
 ## 🌱 Currently Learning
 
-- **Deep Learning:** Exploring neural networks, CNNs, and transformer architectures for advanced AI applications.
-- **Android Development:** Building mobile applications with modern frameworks and best practices.
-- **Data Engineering:** Working with big data tools and creating efficient data pipelines.
-- **Competitive Programming:** Sharpening problem-solving skills on LeetCode and other platforms.
-
----
-
-## 💡 What I'm Looking For
-
--  Open to collaboration on **startup projects** and innovative AI/ML solutions
--  Seeking mentorship and collaboration opportunities in **data science** and **machine learning**
--  Exploring internship opportunities in **AI/ML development** and **data analytics**
-
----
-
-
-## 🌐 Connect with Me
-
-<p align="left">
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/vaishnavi-shahane-0a3135335/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/Shahane-Vaishnavi"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
-
+- **Android Development** : Jetpack components, REST APIs & database integration in Java.<br>
+- **AI/ML Integration** : Implementing machine learning models in mobile applications.<br>
+- **DSA & OOP** : Sharpening problem-solving skills and Java fundamentals.
 
 ---
 
@@ -200,4 +176,15 @@ Here are some of the key projects I've been working on.
 
 <p align="center">
   <i>⭐️ From <a href="https://github.com/Shahane-Vaishnavi">Shahane-Vaishnavi</a></i>
+</p>
+
+---
+
+## 🌐 Find Me Here
+
+<p align="left">
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/vaishnavi-shahane-0a3135335/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://discord.com/users/1397101625717555243"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
+  <a href="https://www.instagram.com/shahane_vaishnavi_18"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>

@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=Shahane-Vaishnavi&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views"/>
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF1493&center=true&vCenter=true&width=500&lines=Designing+AI.;Developing+Apps.;Defining+the+Future." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF1493&center=true&vCenter=true&width=500&lines=|+Designing+AI+|;|+Developing+Apps+|;|+Defining+the+Future+|" alt="Typing SVG" />
 </p>
 
 ## 🚀 Git Commit: Life 
@@ -172,7 +172,7 @@ Here are some of the key projects I've been working on.
     <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="25" height="25"/>
-</div>
+</div><br>
 
 <p align="center">
   <i>⭐️ From <a href="https://github.com/Shahane-Vaishnavi">Shahane-Vaishnavi</a></i>

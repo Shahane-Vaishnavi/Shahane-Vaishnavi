@@ -1,9 +1,6 @@
-<p align="center">
-  <img src="https://i.pinimg.com/originals/0f/ff/3e/0fff3ecb7e2a7dd4e9c1c00761a7ee66.gif" alt="Banner" width="100%">
-</p>
-
-<h1 align="center">Hi, I'm Vaishnavi Shahane ✨</h1>
+<h1 align="center">Hyy I'm Vaishnavi🦩</h1> 
 <!-- <h3 align="center">CSE Student | Data Enthusiast | ML Developer</h3> -->
+
 <h3 align="center">Designing AI. Developing Apps. Defining the Future</h3>
 
 <p align="center">
@@ -14,9 +11,8 @@
   <img align="right" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width="400" />
 </p>
 
-I'm a Computer Science student passionate about **Artificial Intelligence**, **Machine Learning**, and exploring the fascinating world of intelligent systems. I thrive on solving complex problems, building innovative projects, and optimizing systems to make technology more accessible and impactful.
 
-Currently, I'm working on **GATE Assistant** – an AI-powered learning companion designed to revolutionize exam preparation with personalized study plans and intelligent question generation.
+I'm a Computer Science student passionate about AI and Machine Learning. Currently building GATE Assistant, an AI-powered learning companion that personalizes exam preparation with intelligent study plans and question generation.
 
 > *"Code with purpose. Learn with passion. Deliver with pride."*
 
@@ -150,6 +146,7 @@ Here are some of the key projects I've been working on.
 
 ---
 
+
 ## 🌐 Connect with Me
 
 <p align="left">
@@ -157,6 +154,7 @@ Here are some of the key projects I've been working on.
   <a href="https://www.linkedin.com/in/vaishnavi-shahane-0a3135335/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/Shahane-Vaishnavi"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
+
 
 ---
 
@@ -193,8 +191,6 @@ Here are some of the key projects I've been working on.
     <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="25" height="25"/>
 </div>
-
----
 
 <p align="center">
   <i>⭐️ From <a href="https://github.com/Shahane-Vaishnavi">Shahane-Vaishnavi</a></i>

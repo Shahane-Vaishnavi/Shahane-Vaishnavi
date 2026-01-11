@@ -1,22 +1,26 @@
 <h1 align="center">Hyy I'm Vaishnavi🦩</h1> 
 <!-- <h3 align="center">CSE Student | Data Enthusiast | ML Developer</h3> -->
-
-<h3 align="center">Designing AI. Developing Apps. Defining the Future</h3>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Shahane-Vaishnavi&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views"/>
 </p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF1493&center=true&vCenter=true&width=500&lines=Designing+AI.;Developing+Apps.;Defining+the+Future." alt="Typing SVG" />
+</p>
+
+## 🚀 Git Commit: Life 
 
 <p align="right">
   <img align="right" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width="400" />
 </p>
 
+CS student who went from building AI study buddies to Android apps that actually matter 📱 Currently cooking up a Women Safety app for finding legal advocates because tech should solve real problems, not just look cool on a resume. Recently shipped a To-Do app (yes, another one, but mine slaps different 💅). 
+Obsessed with DSA problems even though they keep me up at night 🥲 Vibing between Android dev in Java, advanced web tech, and making OOP make sense. Building stuff that helps people while trying not to break prod.
 
-I'm a Computer Science student passionate about AI and Machine Learning. Currently building GATE Assistant, an AI-powered learning companion that personalizes exam preparation with intelligent study plans and question generation.
+> *"Curious mind. Consistent effort. Real creations."*
 
-> *"Code with purpose. Learn with passion. Deliver with pride."*
 
 ---
+
 
 ## 🛠️ My Tech Stack
 
@@ -51,7 +55,9 @@ I'm a Computer Science student passionate about AI and Machine Learning. Current
   <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
+
 ---
+
 
 ## 🚀 My Projects
 
@@ -160,7 +166,7 @@ Here are some of the key projects I've been working on.
 
 ## 🎉 Fun Fact
 
-✨ Still a student… but already building projects that solve real problems 🚀
+🌻A little shy, deeply curious — and quietly building things that matter.
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
